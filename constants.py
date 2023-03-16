@@ -1,0 +1,2 @@
+OMDB_API_KEY = "5cb963cf"
+TMDB_API_KEY = "21f7e162e88b89af0c0accc6d999396a"
